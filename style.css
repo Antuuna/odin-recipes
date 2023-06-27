@@ -1,4 +1,31 @@
-#id {
+#chef {
     height: auto;
-    width: 900px;
+    width: 500px;
+}
+
+html {
+    background-color: blanchedalmond;
+}
+
+.recipe-list {
+    font-size: 25px;
+}
+
+.header {
+    font-size: 35px;
+}
+
+#maccheese {
+    height: 300px;
+    width: auto;
+}
+
+#sushibake {
+    height: 300px;
+    width: auto;
+}
+
+#smashburger {
+    height: 300px;
+    width: auto;
 }
